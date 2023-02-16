@@ -1,1 +1,1 @@
-Learnign C language
+Basics of C
