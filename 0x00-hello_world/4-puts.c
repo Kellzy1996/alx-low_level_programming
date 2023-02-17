@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
- * main - puts function
+ * main -function entry
  *
- * return: Always 0 (Success)
+ *
+ * print a string and return 0 then exits
+ * Return: int(0)
  */
 int main(void)
 {
